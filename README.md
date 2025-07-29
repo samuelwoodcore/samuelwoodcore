@@ -2,7 +2,7 @@
 
 ## 🚀 Fintech, Payments and System Engineering Specialist
 
-I'm a software engineer and entreprenure specializing in building secure, scalable financial technology solutions. With expertise in Go, Python, Rust, JavaScript, and modern web technologies, I love creating systems that handle real money with precision and reliability. I am also the cofounder at ![Woodcore Inc](https://woodcore.co)
+I'm a software engineer and entreprenure specializing in building secure, scalable financial technology solutions. With expertise in Go, Python, Rust, JavaScript, and modern web technologies, I love creating systems that handle real money with precision and reliability. I am also the cofounder at [Woodcore Inc](https://woodcore.co)
 
 ### 🔭 What I'm Currently Working On
 - Managing robust core banking system i built 5 years ago at Woodcore, serving over 4m+ accounts
