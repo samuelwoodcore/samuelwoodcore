@@ -29,20 +29,14 @@ I'm a software engineer and entreprenure specializing in building secure, scalab
 
 ### 🌟 Featured Projects
 
-#### 🏦 [Flask Base API](https://github.com/samuelwoodcore/flask-base-api)
-A complete boilerplate Flask RESTful API designed for financial applications
-- **Tech:** Python, Flask, RESTful API design
-- **Features:** Authentication, data validation, error handling
+#### 🏦 [Panda Datasbase](https://github.com/samuelwoodcore/panda-database)
+A modern, high-performance key-value database written in Rust with support for both local and S3 storage backends
 
 #### 🐳 [Docker Installation Scripts](https://github.com/samuelwoodcore/docker-installation)
 Automated Docker setup and configuration scripts for development environments
-- **Tech:** Shell scripting, Docker, DevOps
-- **Impact:** Streamlines development environment setup
 
 #### ⚡ [Kafka AWS Setup](https://github.com/samuelwoodcore/kafka-aws-setup)
 Infrastructure automation for Apache Kafka deployment on AWS
-- **Tech:** Shell, AWS, Kafka, Infrastructure as Code
-- **Purpose:** Scalable message streaming setup
 
 ### 📊 GitHub Stats
 
