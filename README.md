@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel Joseph (Sammy) 👋
 
-## 🚀 Fintech, Payments and System Engineering Specialist
+## 🚀 Fintech, Payments, AI and System Engineering Specialist
 
 I'm a software engineer and entreprenure specializing in building secure, scalable financial technology solutions. With expertise in Go, Python, Rust, JavaScript, and modern web technologies, I love creating systems that handle real money with precision and reliability. I am also the cofounder at [Woodcore Inc](https://woodcore.co)
 
@@ -27,16 +27,10 @@ I'm a software engineer and entreprenure specializing in building secure, scalab
   ![RabbitMQ](https://img.shields.io/badge/rabbitmq-2496ED?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌟 Featured Projects
+### 🌟 Recent Experiments
 
 #### 🏦 [Panda Datasbase](https://github.com/samuelwoodcore/panda-database)
 A modern, high-performance key-value database written in Rust with support for both local and S3 storage backends
-
-#### 🐳 [Docker Installation Scripts](https://github.com/samuelwoodcore/docker-installation)
-Automated Docker setup and configuration scripts for development environments
-
-#### ⚡ [Kafka AWS Setup](https://github.com/samuelwoodcore/kafka-aws-setup)
-Infrastructure automation for Apache Kafka deployment on AWS
 
 ### 💼 Professional Experience
 - **Fintech & Payments Engineering** - Building secure, compliant financial systems
