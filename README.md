@@ -50,7 +50,5 @@ I'm always interested in discussing fintech innovations, secure coding practices
 
 ⭐️ **Fun Fact:** I believe the best financial software is invisible to users - it just works, securely and reliably, every single time.
 
-**💡 Open to opportunities in:** Senior Software Engineering, Fintech Architecture, Payments Infrastructure, Team Leadership
-
 ---
 *Last updated: July 2025*
